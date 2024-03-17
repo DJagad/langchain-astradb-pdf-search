@@ -1,0 +1,1 @@
+## Creating the Langchain Q&A with respect to PDF stored at CassandraDB(ASTRADB)

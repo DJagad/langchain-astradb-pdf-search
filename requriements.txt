@@ -5,3 +5,5 @@ openai
 tiktoken
 ipykernel
 PyPDF2
+python-dotenv
+streamlit

@@ -1,0 +1,11 @@
+prefix=/Users/spartan/Desktop/Projects/PDFQuery_With_Langchain_AstraDB/langchain_casandra
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/spartan/Desktop/Projects/PDFQuery_With_Langchain_AstraDB/langchain_casandra/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.2
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
